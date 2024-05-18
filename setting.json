@@ -1,8 +1,14 @@
 {
     "TOKEN": "MTIzNzQxNjk3MjMzMzg3OTM1OQ.GDMghW.uotfutsR--SqUsCe1czWr2ohIf3eW0QyjOlG6U",
     "keyword": {
-        "schwi": ["休比", "修比"],
-        "die": ["爆", "暴", "死", "報", "炸", "小狗", "就這", "嫩", "菜", "多練", "御姊"]
+        "schwi": ["休比", "修比", "咻比", "休筆"],
+        "die": ["爆", "炸", "死", "殺", "狗", "擊", "就", "嫩", "菜", "練", "御", "廢"],
+        "ridicule_words": ["嫩", "就這?", "真菜", "多練"]
     },
-    "Print_Channel": "1237449812828487722"
+    "channel": {
+        "print_channel": "1237449812828487722",
+        "test_channel": "1237456999747289222",
+        "towerofsaviors_channel": "1238043594460500008",
+        "opgg_channel": "1238580124388036660"
+    }
 }
