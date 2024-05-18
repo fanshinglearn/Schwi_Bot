@@ -1,0 +1,60 @@
+{
+    "game_type": [
+        {
+            "game_type": "TOTAL",
+            "game_translate": "全部"
+        },
+        {
+            "game_type": "RANKED",
+            "game_translate": "積分對戰"
+        },
+        {
+            "game_type": "SOLORANKED",
+            "game_translate": "單/雙排"
+        },
+        {
+            "game_type": "FLEXRANKED",
+            "game_translate": "彈性積分"
+        },
+        {
+            "game_type": "NORMAL",
+            "game_translate": "一般對戰"
+        },
+        {
+            "game_type": "ARAM",
+            "game_translate": "隨機單中"
+        },
+        {
+            "game_type": "BOT",
+            "game_translate": "玩家 vs 電腦\n"
+        },
+        {
+            "game_type": "URF",
+            "game_translate": "阿福快打"
+        },
+        {
+            "game_type": "CLASH",
+            "game_translate": "Clash"
+        },
+        {
+            "game_type": "ARENA",
+            "game_translate": "競技場"
+        },
+        {
+            "game_type": "NEXUS_BLITZ",
+            "game_translate": "閃電急擊"
+        },
+        {
+            "game_type": "CUSTOM",
+            "game_translate": "自訂對戰"
+        },
+        {
+            "game_type": "TUTORIAL",
+            "game_translate": "教學模式"
+        },
+        {
+            "game_type": "EVENT",
+            "game_translate": "限時模式"
+        }
+    ]
+}
