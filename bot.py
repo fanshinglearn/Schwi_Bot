@@ -12,7 +12,7 @@ bot = commands.Bot(command_prefix='[', intents=intents)
 @bot.event
 async def on_ready():
     await load_extensions()
-    print('>> bot is online <<')
+    print('>> schwi bot is online <<')
 
 @bot.command()
 async def load(ctx, extension):
