@@ -1,0 +1,204 @@
+[
+    {
+        "summoner": {
+            "summoner_id": "NiWGNY1FTZzZS1HYHL_nOQejnkZhtu5Mx1Nlhfn72gInI6xaKhZHh7f5Wg",
+            "game_name": "大火車",
+            "level": 516,
+            "previous_tier_info": {
+                "tier": "EMERALD",
+                "division": 4,
+                "tier_image_url": "https://opgg-static.akamaized.net/images/medals_new/emerald.png"
+            },
+            "tier_info": {
+                "tier": "PLATINUM",
+                "division": 3,
+                "lp": 89,
+                "tier_image_url": "https://opgg-static.akamaized.net/images/medals_new/platinum.png",
+                "win": 5,
+                "lose": 4
+            }
+        },
+        "team_key": "BLUE",
+        "champion_id": 516,
+        "position": "TOP"
+    },
+    {
+        "summoner": {
+            "summoner_id": "_U8DsKTg4RDPj_ljF3aM4gLxhvlSOMP4SgQ_Pt4mEGvPlZK_eMnR3MwgsQ",
+            "game_name": "到了無人島聽說你與誰人好",
+            "level": 1008,
+            "previous_tier_info": {
+                "tier": "EMERALD",
+                "division": 3,
+                "tier_image_url": "https://opgg-static.akamaized.net/images/medals_new/emerald.png"
+            },
+            "tier_info": {}
+        },
+        "team_key": "BLUE",
+        "champion_id": 233,
+        "position": "JUNGLE"
+    },
+    {
+        "summoner": {
+            "summoner_id": "2KtkxfOatsf6pxMDNQoYeAjonaFOQd39UoO3q9Lt_jOQ9XdjpaklJ1Gj4w",
+            "game_name": "我這輩子只在乎能不能六點準時下班",
+            "level": 354,
+            "previous_tier_info": {
+                "tier": "EMERALD",
+                "division": 4,
+                "tier_image_url": "https://opgg-static.akamaized.net/images/medals_new/emerald.png"
+            },
+            "tier_info": {
+                "tier": "PLATINUM",
+                "division": 3,
+                "lp": 71,
+                "tier_image_url": "https://opgg-static.akamaized.net/images/medals_new/platinum.png",
+                "win": 6,
+                "lose": 7
+            }
+        },
+        "team_key": "BLUE",
+        "champion_id": 910,
+        "position": "MID"
+    },
+    {
+        "summoner": {
+            "summoner_id": "kAUMc-mNpagwXioYpaRRWtJu9JYxYymfy2kICeyxNMlqciMmK6ES9qq-Sw",
+            "game_name": "再吵就送",
+            "level": 700,
+            "previous_tier_info": {
+                "tier": "EMERALD",
+                "division": 4,
+                "tier_image_url": "https://opgg-static.akamaized.net/images/medals_new/emerald.png"
+            },
+            "tier_info": {}
+        },
+        "team_key": "BLUE",
+        "champion_id": 236,
+        "position": "ADC"
+    },
+    {
+        "summoner": {
+            "summoner_id": "OQaOb_fSZZ0vmG5jyVbd4X2pRUhDCNo7BGk1Cc-CC1pNcnaS25o9k94Nkw",
+            "game_name": "水藍色大象",
+            "level": 613,
+            "previous_tier_info": {
+                "tier": "PLATINUM",
+                "division": 1,
+                "tier_image_url": "https://opgg-static.akamaized.net/images/medals_new/platinum.png"
+            },
+            "tier_info": {}
+        },
+        "team_key": "BLUE",
+        "champion_id": 89,
+        "position": "SUPPORT"
+    },
+    {
+        "summoner": {
+            "summoner_id": "N-nVa4dc5FxkJfr04KJAE_rvxbtlszVM-IhaK2fkhi0f4jB52EtvpGNPtw",
+            "game_name": "Miokaz",
+            "level": 701,
+            "previous_tier_info": {
+                "tier": "EMERALD",
+                "division": 4,
+                "tier_image_url": "https://opgg-static.akamaized.net/images/medals_new/emerald.png"
+            },
+            "tier_info": {
+                "tier": "EMERALD",
+                "division": 4,
+                "lp": 0,
+                "tier_image_url": "https://opgg-static.akamaized.net/images/medals_new/emerald.png",
+                "win": 20,
+                "lose": 15
+            }
+        },
+        "team_key": "RED",
+        "champion_id": 901,
+        "position": "TOP"
+    },
+    {
+        "summoner": {
+            "summoner_id": "jAvP3LYM2oKEBvOlhB_jw5QXtqU5vRtGyZk67Prp_zeWO902VMB67dLQcw",
+            "game_name": "笠三笙",
+            "level": 135,
+            "previous_tier_info": {
+                "tier": "PLATINUM",
+                "division": 2,
+                "tier_image_url": "https://opgg-static.akamaized.net/images/medals_new/platinum.png"
+            },
+            "tier_info": {
+                "tier": "PLATINUM",
+                "division": 4,
+                "lp": 0,
+                "tier_image_url": "https://opgg-static.akamaized.net/images/medals_new/platinum.png",
+                "win": 10,
+                "lose": 12
+            }
+        },
+        "team_key": "RED",
+        "champion_id": 234,
+        "position": "JUNGLE"
+    },
+    {
+        "summoner": {
+            "summoner_id": "HrHR5gjM3xYRDA4Hzopz0n_2L8VAiMQuv7wFALPgsNWRe9h5cFBKkt5YTA",
+            "game_name": "白交月",
+            "level": 38,
+            "previous_tier_info": {
+                "tier": "PLATINUM",
+                "division": 1,
+                "tier_image_url": "https://opgg-static.akamaized.net/images/medals_new/platinum.png"
+            },
+            "tier_info": {
+                "tier": "PLATINUM",
+                "division": 1,
+                "lp": 15,
+                "tier_image_url": "https://opgg-static.akamaized.net/images/medals_new/platinum.png",
+                "win": 4,
+                "lose": 2
+            }
+        },
+        "team_key": "RED",
+        "champion_id": 131,
+        "position": "MID"
+    },
+    {
+        "summoner": {
+            "summoner_id": "T7njpGyJLKeA4Pr-9rCzrObPBRmptQQVOl8nZrOkew8-oN9upJRsWziFyQ",
+            "game_name": "ÜIQÜGAPÜ",
+            "level": 508,
+            "previous_tier_info": {
+                "tier": "EMERALD",
+                "division": 4,
+                "tier_image_url": "https://opgg-static.akamaized.net/images/medals_new/emerald.png"
+            },
+            "tier_info": {}
+        },
+        "team_key": "RED",
+        "champion_id": 81,
+        "position": "ADC"
+    },
+    {
+        "summoner": {
+            "summoner_id": "FRFnErzGmXWOXOmadEY-a7F9DyubtYe0KUqOh07SccVn079dQkLsnhw0Eg",
+            "game_name": "KFMA",
+            "level": 609,
+            "previous_tier_info": {
+                "tier": "EMERALD",
+                "division": 4,
+                "tier_image_url": "https://opgg-static.akamaized.net/images/medals_new/emerald.png"
+            },
+            "tier_info": {
+                "tier": "PLATINUM",
+                "division": 2,
+                "lp": 82,
+                "tier_image_url": "https://opgg-static.akamaized.net/images/medals_new/platinum.png",
+                "win": 6,
+                "lose": 6
+            }
+        },
+        "team_key": "RED",
+        "champion_id": 147,
+        "position": "SUPPORT"
+    }
+]
