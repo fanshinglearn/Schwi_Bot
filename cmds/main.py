@@ -14,15 +14,12 @@ class Main(Cog_Extension):
         await ctx.send('HELLO')
         await ctx.send('<@511899806826758148>')
     
+    # 用 Embed 呈現對戰資訊 未完成
     @commands.command()
     async def em(self, ctx):
-        in_game = InGame('')
+        in_game = InGame('2KtkxfOatsf6pxMDNQoYeAjonaFOQd39UoO3q9Lt_jOQ9XdjpaklJ1Gj4w')
         in_game.get_team_data()
-        
         team_data = in_game.team_data
-
-
-        
         embed=discord.Embed(title='積分對戰', color=0x5383e8,
                             timestamp=datetime.datetime.now())
         if ctx.author.avatar:
@@ -48,18 +45,7 @@ class Main(Cog_Extension):
         
         embed.set_footer(text="休比", icon_url=self.bot.user.avatar.url)
         await ctx.send(embed=embed)
-        # await ctx.send(team_data)
-        # await ctx.send('<:paimoncry:1024627970360479744>')
-    
-    # @commands.command()
-    # async def c(self, ctx, *, msg):
-    #     guild = ctx.guild
-    #     with open('path/to/your/yasuo.jpg', 'rb') as image_file:  # 替换为你的 JPG 文件路径
-    #         image_data = image_file.read()
-    #         emoji = await guild.create_custom_emoji(name='yasuo', image=image_data)
-    #         created_emojis.append(emoji)
-    #         print(f'Created emoji: {emoji.name}')
-    #     await ctx.send(f'Created emoji: {emoji.name}')
+        await ctx.send('<:paimoncry:1024627970360479744>')
 
     @commands.command()
     async def sayd(self, ctx, *, msg):
